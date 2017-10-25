@@ -1,0 +1,3 @@
+name = drush_commands
+description = Custom drush utilities
+core = 7.x
